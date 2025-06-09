@@ -14,4 +14,4 @@ This project uses machine learning (Random Forest, XGBoost, LightGBM) to predict
 - Matplotlib / Seaborn
 
 ##### 📁 Files:
-- `churn_prediction.ipynb` – full analysis
+- [churn_prediction.ipynb](./churn-prediction/churn_prediction.ipynb) – full analysis
